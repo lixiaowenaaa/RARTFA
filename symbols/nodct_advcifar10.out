@@ -1,0 +1,7 @@
+nohup: 忽略输入
+Traceback (most recent call last):
+  File "train.py", line 18, in <module>
+    from symbols import resnet_cifar10, resnet_svhn
+  File "/root/Desktop/dct_attention1/symbols/resnet_cifar10.py", line 13, in <module>
+    import torch_dct as dct
+ModuleNotFoundError: No module named 'torch_dct'
